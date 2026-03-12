@@ -1,7 +1,7 @@
 # AI Prompt Enhancer
 
 This project improves vague prompts and converts them into clear and structured AI instructions.
-# PLease view thw attached google drive link for the output images.
+**PLease view the attached google drive link for the output images.
 
 ## Problem
 Short prompts like "boss sick" or "write email" often produce poor AI results because they lack context and structure.
