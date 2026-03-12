@@ -26,3 +26,6 @@ pip install -r requirements.txt
 
 2. Run the app
 streamlit run app.py
+proper run:
+>venv\Scripts\activate
+python -m streamlit run app.py
